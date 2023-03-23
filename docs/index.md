@@ -1,6 +1,6 @@
 ---
 layout: Resume
-title: Sydnie Cziep' Resume
+title: Sydnie Cziep's Resume
 ---
 # Sydnie Cziep
 
